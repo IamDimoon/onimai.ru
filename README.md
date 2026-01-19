@@ -5,8 +5,8 @@
 ###
 <div align="center">
 
-[![](https://img.shields.io/badge/Telegram-onimai.ru-pink)](https://onimai.ru)
-[![](https://badgen.net/static/License/CC-BY-SA-4.0/purple)](https://git.onimai.ru/ONIMAI.RU/Onii-chan_is_done_for/src/branch/main/LICENSE)
+[![](https://img.shields.io/badge/Telegram-onimai.ru-pink)](https://t.me/onimairu_off)
+[![](https://badgen.net/static/License/CC-BY-SA-4.0/purple)](https://github.com/IamDimoon/onimai.ru/blob/main/LICENSE)
 
    <h3>A repository to store the sources of the manga "Onii-chan is done for"</h3><br />
 
